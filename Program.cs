@@ -55,7 +55,8 @@ namespace new_folder
 
             //getting user input
             Console.Write("Enter your name: ");
-            string name =Console.ReadLine();
+            //string name =Console.ReadLine();
+            string name="berk";
             Console.WriteLine("Hello "+ name);
 
             //Convert 
@@ -72,6 +73,74 @@ namespace new_folder
 
             string[] friends = new string[7];
             friends[0]= "arda";
+
+            //methods
+            SayHi("Berk",27);
+
+            //return statement
+            Console.WriteLine(cube(5));
+
+            //if statements
+
+            int degree = 5;
+
+            if (degree>50){
+                Console.WriteLine("bigger than 50");
+
+            }
+            else if (degree>25)
+            {
+                Console.WriteLine("smaller than 50 bigger than 25");
+
+            }else{
+                Console.WriteLine("smaller than 25");
+            }
+
+            //switch statement
+
+            string weektype;
+            int day=0;
+            switch(day)
+            {
+
+                case 0:
+                    weektype="weekday";
+                    
+                    break;
+                case 1:
+                    weektype="weekend";
+                    break;
+                default:
+                    Console.WriteLine("invalid");
+                    break;
+            }
+
+            //while loop
+            int index=1;
+            while(index<10)
+            {
+            Console.WriteLine(index);
+            index++;
+            }
+
+
+            //do while loop
+            //before check while condition,firstly execute inside do statement
+            index=1;
+            do
+            {
+            index++;
+            Console.WriteLine(index);
+            }while(index<10);
+
+            //for loop
+            Console.WriteLine("FOR LOOP");
+            for(int i =1; i<5;i++)
+            {
+                Console.WriteLine(i); 
+            }
+
+            //2d arrays
             
 
 
@@ -79,6 +148,17 @@ namespace new_folder
 
 
 
+        }
+
+
+        static void SayHi(string name,int age){
+            Console.WriteLine("Hi Everyone and "+ name + " your age is " + age);
+        }
+        static int cube(int num){
+            
+            int result = num * num * num;
+
+            return result;
 
         }
     }
