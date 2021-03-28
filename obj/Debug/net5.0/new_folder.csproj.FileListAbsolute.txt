@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.exe
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.deps.json
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.runtimeconfig.json
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.dll
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\ref\new_folder.dll
+C:\Users\Developer\Desktop\c_sharp\new_folder\bin\Debug\net5.0\new_folder.pdb
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.AssemblyInfo.cs
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.dll
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\ref\new_folder.dll
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.pdb
+C:\Users\Developer\Desktop\c_sharp\new_folder\obj\Debug\net5.0\new_folder.genruntimeconfig.cache

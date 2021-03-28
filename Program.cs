@@ -14,6 +14,8 @@ namespace new_folder
             Console.WriteLine("Hello World!2");
             Console.WriteLine(charName);
             Console.WriteLine(charAge);
+            Console.WriteLine("Hello World!3");
+
         }
     }
 }
