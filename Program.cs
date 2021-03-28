@@ -141,10 +141,55 @@ namespace new_folder
             }
 
             //2d arrays
-            
+            //you can define empty 2d array
+            int [,] my2darray=new int[2,3];
+            int [,] numberGrid =
+            {
+                {1,2},
+                {3,4},
+                {5,6}    
+            };
+            Console.WriteLine(numberGrid[1,1]);
 
 
+            //Comments
 
+            /*
+            Multiply Comments
+            com
+            com com
+            */
+
+
+            //try except block
+            try{
+                int zero,five,result;
+                zero=0;
+                five=5;
+                result = five/zero;
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+            }
+
+            //more except block
+
+                        try{
+                int zero,five,result;
+                zero=0;
+                five=5;
+                result = five/zero;
+            }
+            catch(DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+
+            }catch(FormatException e)
+            {
+                Console.WriteLine(e);
+            }
 
 
 
